@@ -55,7 +55,7 @@ WtmpViewer 提供了多种命令用于解析不同类型的日志文件。以下
 要查看 wtmp 日志，运行以下命令：
 
 ```bash
-./wtmpviewer wtmp --file /var/log/wtmp
+./wtmpviewer view --file /var/log/wtmp
 ```
 
 ##### 检查 secure 日志
